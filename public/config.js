@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '梦璃雨落の状态页',
+  SiteName: '梦璃雨落 站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
